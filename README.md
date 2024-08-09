@@ -1,8 +1,9 @@
 # Descripción
 - El ADC tiene una resolución de 10 bits.
 - Es de aproximaciones sucesivas.
-  
+![](https://allday-3d.com/images/discover/arduino/arduino_uno_rev003.png)
 # 
+# Institucional: Laboratorio de microcontroladores
 # Sección 1
   ㅤ
   
@@ -163,6 +164,6 @@ Que lo analógico es continuo puede tomar cualquier valor dentro de un rango y s
 
 ㅤ
 
-![](https://allday-3d.com/images/discover/arduino/arduino_uno_rev003.png)
+
 
 &copy; __Alexandra Casales__
