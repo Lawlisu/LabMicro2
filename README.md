@@ -117,7 +117,7 @@ __***Necesito conectar un LED a la tarjeta Arduino UNO, ¿es necesario forzosame
 __***Describe los comandos del git  low básico para subir archivos al repositorio de GIT.***__
 1.	$ git add: agregar archivo el repositorio.
 2.	$ git commit -m “ ”: Para el registro de cambios.
-3.	$git push origin: para subir los cambios.
+3.	$ git push origin: para subir los cambios.
 ㅤ
 
 ㅤ
